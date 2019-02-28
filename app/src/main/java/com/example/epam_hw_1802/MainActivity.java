@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClickButton(View v){
         Button button=(Button) v;
-        HW1.setText(R.id.button1);
+        HW1.setText(R.id.button2);
 
     }
 }
