@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/zhengelev/Epam_HW_1802.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhengelev/EpamTraining2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Maxim\AndroidStudioProjects" />
